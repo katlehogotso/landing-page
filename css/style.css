@@ -40,3 +40,19 @@ ul {
   padding:0px;
   gap: 16px;
 }
+
+
+.hero-section {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+}
+
+.unique-selling-point {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  width:600px;
+}
