@@ -51,7 +51,7 @@ ul {
 .unique-selling-point {
   display: flex;
   flex-direction: column;
-  flex:auto;
+  align-items: flex-start;
 }
 
 h1 {
