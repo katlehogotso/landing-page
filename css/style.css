@@ -133,3 +133,14 @@ img {
   margin: 0;
   padding: 20px 0;
 }
+
+.section-3 {
+  background-color: #e5e7eb;
+}
+
+.p3 {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 300;
+  font-style: italic;
+}
