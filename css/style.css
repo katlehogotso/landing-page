@@ -82,7 +82,7 @@ h1 {
   border-radius: 8px;
   border: none;
   padding: 8px;
-  width: 116px;
+  width: 118px;
   margin: 0 0 24px 0; 
 }
 
@@ -97,5 +97,30 @@ img {
   font-weight: 900;
   background-color: #f9faf8;
   color: #1f2937;
-  padding: 16px;
+  padding: 8px;
+}
+
+.square {
+  width: 130px;
+  height: 130px;
+  background-color: #f9faf8;
+  border: 2px solid  #2882f6;
+  border-radius: 8px;
+}
+
+.card-section {
+  display: flex;
+  justify-content: center;
+  background-color: #f9faf8;
+  gap: 72px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  max-width: 130px;
+  color: #1f2937;
 }
