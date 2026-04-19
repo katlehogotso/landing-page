@@ -195,3 +195,12 @@ img {
   margin: 0 0 24px 0;
   border: 2px solid #f9faf8;
 }
+
+.footer {
+  Display: flex;
+  justify-content:center;
+  align-items: center;
+  background-color: #222222;
+  color: #f9faf8;
+  padding: 24px;
+}
