@@ -1,6 +1,6 @@
 # landing-page
 
-UI mobile designs groups on hero section designed by me
+UI mobile designs group image on hero section designed by me
 
 Find me at:
 Twitter/X: @prlldesign or @katlehogotso 
